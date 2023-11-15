@@ -3,6 +3,5 @@ Projeto 2, conduzido para matéria de Ciência dos Dados, 2023.
 
   Uso de código em python para, a partir de microdados, prever uma variável principal em função de demais outras variáveis que podem influenciar em seu comportamento.
   
-  Para este projeto, foi decidido a busca por predição do rendimento de uma escola no ENEM. Qual seria uma nota média esperada de uma escola segundo sua localização (rural ou urbano), estado, porte (quantidade de alunos no último ano do ensimo médio), ano de edição do enem, taxa de aprovação no ensino médio. A fim de explorar as múltiplas possibilidades de combinações das características de cada escola, exploramos diferentes técnicas de análise e predição de dados qualitativos e quantitativos.
-
+  Para este projeto, foi decidido a busca por predição do rendimento de uma escola no ENEM. Qual seria uma nota média esperada de uma escola segundo sua localização (rural ou urbano), estado, porte (quantidade de alunos no último ano do ensimo médio), ano de edição do enem, taxa de aprovação no ensino médio. 
   Os dados utilizados para a execução deste projeto foram coletados a partir dos microdados do INEP, contendo as notas médias no enem e características de cada múltiplas escolas nos anos de 2005 a 2015.
